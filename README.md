@@ -12,25 +12,24 @@ After a short while, the script will create two different files:
 
 # Example
 
->[0:08] your dog rodent insensitive tweet
-[0:10] you can eat here are
-[0:11] all meg the sensitivity mob
-[0:13] it was just a joke
+> [0:08] your dog rodent insensitive tweet
+> [0:10] you can eat here are
+> [0:11] all meg the sensitivity mob
+> [0:13] it was just a joke
 
 turns into
+> 1
+> 00:00:00,000 --> 00:00:10,000
+> your dog rodent insensitive tweet
 > 
-1
-00:00:00,000 --> 00:00:10,000
-your dog rodent insensitive tweet
-
-2
-00:00:10,000 --> 00:00:11,000
-you can eat here are
-
-3
-00:00:11,000 --> 00:00:13,000
-all meg the sensitivity mob
-
-4
-00:00:13,000 --> 00:00:15,000
-it was just a joke
+> 2
+> 00:00:10,000 --> 00:00:11,000
+> you can eat here are
+> 
+> 3
+> 00:00:11,000 --> 00:00:13,000
+> all meg the sensitivity mob
+> 
+> 4
+> 00:00:13,000 --> 00:00:15,000
+> it was just a joke
