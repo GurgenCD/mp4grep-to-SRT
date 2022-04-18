@@ -12,6 +12,7 @@ After a short while, the script will create two different files:
 
 # Example
 
+mp4grep generates a file
 ```
 [0:08] your dog rodent insensitive tweet
 [0:10] you can eat here are
@@ -19,7 +20,7 @@ After a short while, the script will create two different files:
 [0:13] it was just a joke
 ```
 
-turns into
+which my script turns into
 ```
 1
 00:00:00,000 --> 00:00:10,000
