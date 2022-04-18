@@ -4,6 +4,7 @@ Simple Javascript function that turns the madeup transcription syntax generated 
 # Usage
 CD to the root folder of the script using a command line, and execute
 > node main.js
+
 followed by a full name of the file, for example:
 > node main.js test.transcribed.txt
 
