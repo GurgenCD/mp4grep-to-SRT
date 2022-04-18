@@ -24,7 +24,7 @@ mp4grep generates a file
 which my script turns into
 ```
 1
-00:00:00,000 --> 00:00:10,000
+00:00:00,000 --> 00:00:80,000
 your dog rodent insensitive tweet
 
 2
